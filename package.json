@@ -18,6 +18,9 @@
     "@angular/platform-browser-dynamic": "~15.0.0",
     "@angular/router": "~15.0.0",
     "@nrwl/angular": "15.3.3",
+    "jalali-moment": "^3.3.11",
+    "ng-zorro-antd": "^14.3.0",
+    "nz-date-picker-jalali": "^0.0.5",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"

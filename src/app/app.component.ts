@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.less'],
 })
 export class AppComponent {
-  title = 'nz-date-picker-jalali-demo-application';
-}
+  date = new Date();
+
+
+  onChange(result: Date): void {
+    console.log('onChange: ', result);
+  }}
